@@ -62,6 +62,7 @@ portfolio/
 │   ├── auto.jpg        # Project image
 │   ├── bus station.jpg # Project image
 │   └── Hero.png        # Project image
+
 └── README.md           # This documentation
 🔧 Customization Guide
 How to Personalize:
